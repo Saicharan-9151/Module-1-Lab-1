@@ -111,7 +111,7 @@ Open the following addresses in your browser after starting the server:
 The application will be deployed using Render.
 
 **Live Application:** 
-Link: [text](https://module-1-lab-1.onrender.com)
+Link: [https://module-1-lab-1.onrender.com](https://module-1-lab-1.onrender.com)
 
 ## GitHub Repository
 
